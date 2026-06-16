@@ -37,7 +37,7 @@ graph TD
 
 ```
 
-# 🚀 The 3 Execution Pillars of SIA 2.0
+# The 3 Execution Pillars of SIA 2.0
 
 ## Pillar 1: Strategic Decoupling (Semantic Granularity)
 Smashes rigid database tables into autonomous, independent units of facts ("Factoids") to eliminate semantic noise, data leakage, and hallucination vectors at the physical layer.
@@ -46,37 +46,43 @@ Smashes rigid database tables into autonomous, independent units of facts ("Fact
 Utilizes LLMs to asynchronously scan isolated Factoids and build an abstracted multi-dimensional knowledge graph. This relational mesh shadows existing production databases without altering a single row of legacy data.
 
 ## Pillar 3: Resource Entropy & Orchestration (Deterministic Governance)
-Combines GraphRAG multi-hop reasoning with Finite State Machines (FSM). When a complex threat is detected, the system overrides linear scripts, stops probabilistic guessing, and compiles data into a definitive, auditable **Decision Packet** for senior management.
+Combines GraphRAG multi-hop reasoning with Finite State Machines (FSM). When a complex threat is detected, the system overrides linear scripts, stops probabilistic guessing, and compiles data into a definitive, auditable "Decision Packet" for senior management.
 
 ---
 
-# ⚡ Active Repositories & Tech Portfolio
+# 🚀 Active Repositories & Tech Portfolio
 
-### 🔧 SIA-2.0-Core-Engine
+### ⚡ SIA-2.0-Core-Engine | 🌐 Live Architectural Blueprint
 **Executive Summary:**  
-The concrete JavaScript technical blueprint enforcing the Sovereign Infrastructure Architecture framework. It features an asynchronous relationship extraction network and an invariant runtime interception layer to act as a deterministic governor for multi-agent corporate systems.  
+The concrete JavaScript technical blueprint enforcing the Sovereign Infrastructure Architecture framework. It features an asynchronous relationship extraction network and an invariant runtime interception layer to act as a deterministic governor for multi-agent corporate systems.
 
 **Key Specs:**  
 - Non-intrusive metadata isolation  
 - GraphRAG logic layer compilation  
 - FSM state boundaries  
 
-**Target Audience:** CTOs, Chief Risk Officers, Enterprise Architects  
-**Topics:** #ai-governance #enterprise-architecture #zero-trust #graphrag #systemic-design  
+**Target Audience:**  
+CTOs, Chief Risk Officers, Enterprise Architects  
+
+**Topics:**  
+`#ai-governance` `#enterprise-architecture` `#zero-trust` `#graphrag` `#systemic-design`
 
 ---
 
-### 🧠 Thought-Synthesis-App (Mind Filter)
+### 🧠 Thought-Synthesis-App (Mind Filter) | 🌐 Live Interactive Prototype
 **Executive Summary:**  
-A human-centric cognitive optimization application designed to solve a pervasive enterprise pain point: management demanding aggressive AI efficiency KPIs while employees experience cognitive overwhelm and lack execution clarity. Mind Filter bridges the human-AI context gap by turning chaotic daily operations into structured thought matrices.  
+A human-centric cognitive optimization application designed to solve a pervasive enterprise pain point: management demanding aggressive AI efficiency KPIs while employees experience cognitive overwhelm and lack execution clarity. Mind Filter bridges the human-AI context gap by turning chaotic daily operations into structured thought matrices.
 
 **Key Specs:**  
 - Real-time information decoupling  
 - Thought synthesis layer  
 - Human-in-the-loop decision mapping  
 
-**Target Audience:** Operations Directors, Change Management Leads, Human-Centric Design Practitioners  
-**Topics:** #human-centric-ai #cognitive-ergonomics #digital-transformation #knowledge-management  
+**Target Audience:**  
+Operations Directors, Change Management Leads, Human-Centric Design Practitioners  
+
+**Topics:**  
+`#human-centric-ai` `#cognitive-ergonomics` `#digital-transformation` `#knowledge-management`
 
 ---
 
